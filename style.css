@@ -13,8 +13,9 @@
 }
 .fotoigor{
     margin-top: 20px;
-    width: 200px;
-    border-radius: 60%;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
 }
 .bold{
     font-weight: bold;
